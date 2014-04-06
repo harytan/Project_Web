@@ -1,0 +1,62 @@
+www.room.my
+
+login with third party
+- microsoft
+- google
+- facebook
+
+attach photo
+
+match address with google map
+
+search settings
+
+
+
+
+
+
+
+
+objects
+ad poster (post room / pump in resource)
+- login
+- register
+- post ad
+- manage ad
+
+ad management system (manage resource)
+
+
+
+ad reader (find room / take resource)
+- login
+- register
+- search room
+- 
+
+
+
+
+user friendly (like jobstreet)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+portal service
+- room rental
+- house rent / sales
+- 2nd hand market?
+- books? stuffs? furniture?
